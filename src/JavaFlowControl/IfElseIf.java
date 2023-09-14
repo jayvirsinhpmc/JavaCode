@@ -1,6 +1,6 @@
 package JavaFlowControl;
 
-public class IfElse {
+public class IfElseIf {
     public static void main(String[] args) {
 
         int age = 19;
