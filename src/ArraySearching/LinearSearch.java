@@ -1,4 +1,4 @@
-package DSAQuestions;
+package ArraySearching;
 
 public class LinearSearch {
 
