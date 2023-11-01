@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--this is notes-->
+<notes>
+    <note1>
+        <to>jay</to>
+        <from>parth</from>
+        <message>hello</message>
+    </note1>
+    <note1>
+        <to>parth</to>
+        <from>jay</from>
+        <message>hi</message>
+    </note1>
+</notes>
