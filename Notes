@@ -1,0 +1,14 @@
+About XML
+XML - extensible markup language
+    designed to store and transport data
+    designed to carry data not to display data
+    we have to design our own tags
+    platform and language independent
+
+    key difference between HTML and XML
+    html - used to display data
+    XML - used to transport data
+    html - pre-defined tags
+    xml - no pre-defined tags
+
+    metadata is stored as attribute and data is stored as element
