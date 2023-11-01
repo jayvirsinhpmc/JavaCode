@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class ArrayInsertion {
 
+//    insert element at starting
     public int[] insertAtStarting(int[] arr, int num){
         int len = arr.length;
         int[] result = new int[len+1];
@@ -16,6 +17,8 @@ public class ArrayInsertion {
 
         return result;
     }
+
+//    insert element at particular possition
     public int[] insertAtParticularPossition(int[] arr, int position, int num){
         int len = arr.length;
         int[] result = new int[len+1];
@@ -28,6 +31,8 @@ public class ArrayInsertion {
         }
         return result;
     }
+
+//    insert element at end
     public int[] insertAtEnding(int[] arr, int num){
         int len = arr.length;
         int[] result = new int[len+1];
