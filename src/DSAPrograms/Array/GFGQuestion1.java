@@ -1,4 +1,4 @@
-package DSAQuestions;
+package DSAPrograms.Array;
 
 /*
 Question

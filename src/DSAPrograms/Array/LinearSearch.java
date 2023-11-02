@@ -1,4 +1,4 @@
-package DSAQuestions.ArraySearching;
+package DSAPrograms.Array;
 
 public class LinearSearch {
 

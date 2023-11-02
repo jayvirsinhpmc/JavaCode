@@ -1,4 +1,4 @@
-package DSAQuestions;
+package DSAPrograms.Array;
 
 import java.util.Arrays;
 
